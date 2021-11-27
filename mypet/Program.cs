@@ -15,5 +15,7 @@ class MainClass
 		Console.WriteLine("Do I have a pet? " + HaveIApet);
 		Console.WriteLine("My shoe size is " + MyShoeSize);
 
+		enum semaphore:short
+	{ Yellow = 200, Green = 300, Red = 100
 	}
 }
